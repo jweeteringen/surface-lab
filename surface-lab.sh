@@ -8,7 +8,7 @@ header(){ printf "\n------------------------------\n SURFACE LAB LAUNCHPAD\n----
 update_system(){ echo "Updating system packages..."; if command -v sudo >/dev/null 2>&1; then sudo apt update && sudo apt upgrade -y; else apt update && apt upgrade -y; fi; echo "All packages up to date"; }
 
 sysinfo(){
-  echo "\nSystem Info:"
+  printf "\nSystem Info:\n"
   if command -v neofetch >/dev/null 2>&1; then neofetch
   else
     host="$(hostname)"
