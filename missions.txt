@@ -1,0 +1,10 @@
+Practice file permissions with chmod.
+Run: nmap -A localhost and identify open ports.
+Write a Bash script that prints your IP addresses.
+Learn 3 new apt commands (search, show, purge).
+Create ~/scripts and add a script with #!/usr/bin/env bash.
+Use tmux: create a session and split panes.
+Practice grep, awk, and sed on a sample log file.
+Scan your LAN with: sudo nmap -sn 192.168.1.0/24 (adjust subnet).
+Hardening: enable and check ufw; allow OpenSSH only.
+Write a Zsh alias for ll and cls.
