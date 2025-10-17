@@ -1,5 +1,9 @@
 # Surface Linux Lab
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Last commit](https://img.shields.io/github/last-commit/jweeteringen/surface-lab?label=last%20commit)](https://github.com/jweeteringen/surface-lab/commits/main) ![Repo size](https://img.shields.io/github/repo-size/jweeteringen/surface-lab)
+
+# Surface Linux Lab
+
 An all-in-one Launchpad and learning project for my Surface Laptop running Pop!_OS.
 
 ## What
